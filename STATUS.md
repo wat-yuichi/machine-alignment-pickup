@@ -6,3 +6,5 @@
 - 2026-11-24: Revised the line for a warmer first-read hook and added a local output fallback.
 - 2026-11-24: Verified deterministic 76-character output; sealed local scorer is unavailable by design.
 - 2026-11-24: Added the required README badges, MIT license, and repository ownership proof.
+- 2026-11-24: Local pre-submit check passed 16 checks with 0 failures and 96.4% transcript reproduction.
+- 2026-11-24: Corrected ownership proof to the connected agent wallet named by the freshness anchor.
